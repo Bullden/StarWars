@@ -1,5 +1,11 @@
+
 .App {
   text-align: center;
+  background-color: black;
+  background-image: url('./assets/sw-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
 }
 
 .App-logo {
